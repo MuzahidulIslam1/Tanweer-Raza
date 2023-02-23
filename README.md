@@ -16,7 +16,7 @@
 
 - 👨‍💻 **Masters in Technolgy from NIT Patna.** 
 - :student: I’m currently learning: `NLP` and `Deep Learning`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1-D-DmhCQJOeIoaOh4RS4GYBdo5TcD1Lk/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12Fa-uvHs3raOgbvOapaI15maCSsooWtZ/view?usp=sharing).
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Tanweer-Raza?tab=repositories)
 - :nerd_face: Always `learning new things`
 
